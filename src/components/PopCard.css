@@ -1,0 +1,8 @@
+.card > .cardheader {
+/*  border-bottom: 1px solid white;*/
+}
+
+.card > .content {
+  font-size: 14px;
+  text-align: left;
+}
